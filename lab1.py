@@ -2,4 +2,4 @@ text = input().split()
 for letter in text:
     if letter == ' ':
         continue    
-    letter_char = char(letter)
+    letter_char = char(letter)f dfgdf
